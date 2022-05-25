@@ -1,0 +1,56 @@
+.card-content{
+    height: 450px;
+	width:700px;
+	background:  #702963;
+	border-radius: 20px;
+	box-shadow: 0.6em 0.6em 1.2em #383838,-0.5em -0.5em 1em #383838;
+	margin-left: 25%;
+	
+}
+.card-content h3{
+    text-align: center;
+    color: var(--orange);
+    padding: 25px 0 10px 0;
+    font-size: 26px;
+    font-weight: 500;
+	font-weight: 700;
+}
+.form-row{
+    display: flex;
+	flex-wrap: wrap;
+    width: auto;
+    margin:auto;
+	justify-content: center;
+}
+
+ form input{
+    display: block;
+    width: 100%;
+    margin: 15px 12px;
+    padding: 5px;
+    font-size: 15px;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #eee;
+    font-weight: 300;
+}
+form input[type = text],  form input::placeholder{
+    color: 	#D3D3D3;
+}
+form input[type = file] {
+text-align-last: center;
+	
+}
+.containing {
+	color:var(--orange);
+	font-size: 15px;
+	padding: 20px;
+	padding-top: 7px;
+	text-align: center;
+
+	
+}
+
+
+
+

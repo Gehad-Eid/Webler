@@ -1,0 +1,99 @@
+.card-content{
+    height: 500px;
+	width:700px;
+	background:  #702963;
+	border-radius: 20px;
+	box-shadow: 0.6em 0.6em 1.2em #383838,-0.5em -0.5em 1em #383838;
+	margin-left: 25%;
+	
+}
+.card-content h3{
+    text-align: center;
+    color: var(--orange);
+    padding: 25px 0 10px 0;
+    font-size: 26px;
+    font-weight: 500;
+	font-weight: 700;
+}
+.form-row{
+    display: flex;
+	flex-wrap: wrap;
+    width: auto;
+    margin:auto;
+	justify-content: center;
+}
+
+ form input{
+    display: block;
+    width: 100%;
+    margin: 15px 12px;
+    padding: 5px;
+    font-size: 15px;
+    outline: none;
+    border: none;
+
+    font-weight: 300;
+}
+form input[type = text]{
+    color: black;
+}
+form input::placeholder{
+	color: #D3D3D3;
+}
+
+form input[type=file]{
+	text-align-last: center;
+	color:transparent;
+
+}
+#fileinput {
+		position: relative;
+	margin: 12px 12px;
+		left: -50px;
+ }
+ #fileinput2 {
+	 		position: relative;
+	margin: 12px 12px;
+	margin-top: -15px;
+	top: 25px;
+	left: -50px;
+ }
+#hi {
+	position: relative;
+	margin: 12px 12px;
+	text-align: right;
+margin-top: -36px;
+right:-26px;
+}
+#ki {
+	position: relative;
+	margin: 12px 12px;
+	text-align: right;
+margin-top: -16px;
+right:-26px;
+}
+.containing {
+	color:var(--orange);
+	font-size: 15px;
+	padding: 20px;
+	padding-top: 7px;
+	text-align: center;
+
+	
+}
+
+#submit {
+	    display: block;
+    width: 100%;
+    margin: 15px 12px;
+    padding: 5px;
+    font-size: 15px;
+    outline: none;
+    border: none;
+    font-weight: 300;
+margin-top: 50px;
+}
+
+
+
+
