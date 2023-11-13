@@ -42,9 +42,3 @@ Contributions and feedback are welcomed. Please submit issues or pull requests o
 For any inquiries or support, please contact the development team at [gehad.a.eid@gmail.com](mailto:gehad.a.eid@gmail.com).
 
 **Thank you for using Webler!**
-
-
-http://webler.ksuit.org/
-Employee:
-id : 123456
-pass : 123456789
